@@ -1,4 +1,6 @@
 # FruitsRecognitionCamera
+## サンプルイメージ
+<img src="https://user-images.githubusercontent.com/37995730/50756840-db033a80-12a0-11e9-9ef5-e8dab346e86c.png" width="320px">
 ## Overview  
 Intentカメラ + TensorFlowLite によるフルーツ認識カメラです。  
 認識機能は、[TensorFlowLite](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2-tflite/#0)を利用。  
@@ -24,6 +26,3 @@ width = 135
 height = 240  
 でした。224*224というサイズで学習させることもある為、  
 別のタスクでは使えない場合もあります。  
-
-## サンプルイメージ
-<img src="https://user-images.githubusercontent.com/37995730/50756840-db033a80-12a0-11e9-9ef5-e8dab346e86c.png" width="320px">
