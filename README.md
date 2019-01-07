@@ -1,15 +1,13 @@
 # FruitsRecognitionCamera
-Writed by kotlin.
-
 ## Overview  
 Intentカメラ + TensorFlowLite によるフルーツ認識カメラです。  
-認識機能は、TensorFlowLiteを利用。  
-https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2-tflite/#0  
+認識機能は、[TensorFlowLite](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2-tflite/#0)を利用。  
+
 
 識別モデルであるtensorflowLiteファイルの作成はpythonで行いました。  
 colab上でkaggleからデータのダウンロード、kerasによるネットワークの構築、学習、保存を行い、h5ファイルを作成、  
 このファイルをtfliteファイルに変換し、GoogleDriveに保存。  
-その全ての工程は『Fruits_Recognition_Keras.ipynb』にて確認できます。  
+その全ての工程は[Fruits_Recognition_Keras.ipynb](url)にて確認できます。  
   
 tfliteファイルをアプリへ組み込み、  
 画像のサイズ、識別するクラスファイルに注意しながらコーディングします。  
