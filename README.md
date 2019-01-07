@@ -4,7 +4,7 @@
 
 # Overview  
 
-Intentカメラ + TensorFlowLite によるフルーツ認識カメラです。  
+Intentカメラ + 深層学習 によるフルーツ認識カメラです。  
 認識機能は、[TensorFlowLite](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2-tflite/#0)を利用。  
 
 
