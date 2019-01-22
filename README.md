@@ -11,7 +11,8 @@ Intentカメラ + 深層学習 によるフルーツ認識カメラです。
 
 
 識別モデルであるtensorflowLiteファイルの作成はpythonで行いました。  
-colab上で[Kaggle(Fruits 360 dataset)](https://www.kaggle.com/moltean/fruits/home)からデータのダウンロード、kerasによるネットワークの構築、学習、保存を行い、h5ファイルを作成、  
+colaboratory上で[Kaggle(Fruits 360 dataset)](https://www.kaggle.com/moltean/fruits/home)からデータのダウンロード、  
+kerasによるネットワークの構築、学習、保存を行い、h5ファイルを作成、  
 このファイルをtfliteファイルに変換し、GoogleDriveに保存。  
 その全ての工程は[Fruits_Recognition_Keras.ipynb](https://github.com/maro-amoeba/FruitsRecognitionCamera/blob/master/Fruits_Recognition_Keras.ipynb)にて確認できます。  
   
