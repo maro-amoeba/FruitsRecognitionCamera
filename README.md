@@ -8,7 +8,7 @@ tensorflowLiteファイルの作成のノートファイルはこちらです。
 
 Intentカメラ + 深層学習 によるフルーツ認識カメラです。  
 認識機能は、[TensorFlowLite](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2-tflite/#0)を利用。  
-
+今回、認識機能に組み込む識別モデルの作成から行なっています。  
 
 識別モデルであるtensorflowLiteファイルの作成はpythonで行いました。  
 colaboratory上で[Kaggle(Fruits 360 dataset)](https://www.kaggle.com/moltean/fruits/home)からデータのダウンロード、  
