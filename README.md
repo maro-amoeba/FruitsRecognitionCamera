@@ -1,6 +1,5 @@
 # FruitsRecognitionCamera
-tensorflowLiteファイルを作りたい人向け  
-作成のノートファイルはこちらです。  
+tensorflowLiteファイル(tfliteファイル)作成のノートファイルはこちらです。  
 [Fruits_Recognition_Keras.ipynb](https://github.com/maro-amoeba/FruitsRecognitionCamera/blob/master/Fruits_Recognition_Keras.ipynb)  
 開けない場合は[こちら](https://colab.research.google.com/github/maro-amoeba/FruitsRecognitionCamera/blob/master/Fruits_Recognition_Keras.ipynb)にアクセスしてください。(むしろこちらの方が良いかもです)  
 
