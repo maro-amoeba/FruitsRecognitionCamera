@@ -17,7 +17,7 @@ colaboratory上で[Kaggle(Fruits 360 dataset)](https://www.kaggle.com/moltean/fr
 kerasによるネットワークの構築、学習、保存を行い、h5ファイルを作成、  
 このファイルをtfliteファイルに変換し、GoogleDriveに保存。  
 その全ての工程は[Fruits_Recognition_with_Data_Augmentation.ipynb](https://github.com/maro-amoeba/FruitsRecognitionCamera/blob/master/Fruits_Recognition_with_Data_Augmentation.ipynb)にて確認できます。  
-開けない場合は[こちら](https://colab.research.google.com/github/maro-amoeba/FruitsRecognitionCamera/blob/master/Fruits_Recognition_Keras.ipynb)です。 
+開けない場合は[こちら](https://colab.research.google.com/github/maro-amoeba/FruitsRecognitionCamera/blob/master/Fruits_Recognition_Keras.ipynb)にアクセスしてください。   
 
 tfliteファイルをアプリへ組み込み、  
 画像のサイズ、識別するクラスファイルに注意しながらコーディングします。  
